@@ -1,6 +1,7 @@
 # NusseltNumber
 This repository provides a function object and tutorial for the calculation of Nusselt number based on OpenFoam libraries.
 
+The Nusselt number is calculated for the two boundaries given as input. 
 
 # Usage
 
