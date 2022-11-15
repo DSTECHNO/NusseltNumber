@@ -1,0 +1,8 @@
+#!/bin/sh
+
+
+blockMesh > log.blockMesh
+transformPoints -rotate '( (1 0 0) (0 0 1) )' > log.transformPoints
+decomposePar
+mpirun -n 8 buoyantPimpleFoam -parallel > log.buoyantPimpleFoam
+reconstructPar
