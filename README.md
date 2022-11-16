@@ -2,6 +2,7 @@
 This repository provides a function object and tutorial for the calculation of Nusselt number based on OpenFoam-8 libraries.
 
 The Nusselt number is calculated for the two boundaries given as input.
+The results are obtained as a field and the Nusselt Number value is displayed on the calculated boundary.
 
 ![1](https://user-images.githubusercontent.com/92421699/202169434-d9655785-ce9a-4e38-a7c5-3001e88f1f40.png)
 
