@@ -17,7 +17,9 @@ The results are obtained as a field and the Nusselt Number value is displayed on
 
 $wmake
 
-**Step 2.** cd /NusseltNumber/tutorial/case
+**Step 2.** To run the tutorial:
+
+$ cd /NusseltNumber/tutorial
 
 $ ./Allrun
 
