@@ -1,6 +1,8 @@
 # NusseltNumber
 This repository provides a function object and tutorial for the calculation of Nusselt number based on OpenFoam-8 libraries.
 
+Nu = Convective heat transfer / Conductive heat transfer
+
 The Nusselt number is calculated for the two boundaries given as input.
 The results are obtained as a field and the Nusselt Number value is displayed on the calculated boundary.
 
