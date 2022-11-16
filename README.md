@@ -17,15 +17,15 @@ The results are obtained as a field and the Nusselt Number value is displayed on
 
 $wmake
 
-**Step 2.** cd tutorial/case
+**Step 2.** cd /NusseltNumber/tutorial/case
 
-$./Allrun
+$ ./Allrun
 
 **Addition.** To delete functionObject:
 
-$cd NusseltNumber
+$ cd /NusseltNumber
 
-$wclean
+$ wclean
 
 # Underlying Data
 Zenodo:
