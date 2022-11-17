@@ -16,7 +16,7 @@ Nusselt Number values calculated using our functionObject as a result of CFD sim
 ![Nu2D](https://user-images.githubusercontent.com/92421699/202397085-a7e10df9-4d61-459a-a4af-c7d4390052cf.png)
 **Figure 2.** Comparison of Nusselt Number.
 
-[![](https://markdown-videos.deta/youtube/{watch?v=-jCMPmvqgcw&t=1s&ab_channel=EnderDemirel})](https://www.youtube.com/watch?v=-jCMPmvqgcw&t=1s&ab_channel=EnderDemirel)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=-jCMPmvqgcw&t=1s&ab_channel=EnderDemirel/0.jpg)](https://www.youtube.com/watch?v=-jCMPmvqgcw&t=1s&ab_channel=EnderDemirel)
 
 **Note:** The reference list includes the publication from which the experimental values were drawn.
 
