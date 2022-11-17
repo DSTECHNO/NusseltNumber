@@ -8,10 +8,16 @@ Nu = Convective heat transfer / Conductive heat transfer
 
 ![nusselt](https://user-images.githubusercontent.com/90314532/202379512-8de10e3f-e609-4209-8341-456facd79b8f.PNG)
 
-The results are obtained as a field and the Nusselt Number value is displayed on the calculated boundary.
-
-![1](https://user-images.githubusercontent.com/92421699/202171270-fabc4728-7189-4537-9569-38d6010a1bfc.png)
+The nusselt number field is displayed on the cylinder boundary of the tutorial case.
+![2](https://user-images.githubusercontent.com/92421699/202396386-d207e233-9ce8-485c-b628-138cba68cc2b.png)
 **Figure 1.** Nusselt Number field display on a cylinder boundary.
+
+Nusselt Number values calculated using our functionObject as a result of CFD simulation and obtained from experimental results were compared in a graphic.
+![Nu2D](https://user-images.githubusercontent.com/92421699/202397085-a7e10df9-4d61-459a-a4af-c7d4390052cf.png)
+**Figure 2.** Comparison of Nusselt Number.
+
+**Note:** The reference list includes the publication from which the experimental values were drawn.
+
 
 # Usage
 
@@ -30,6 +36,10 @@ $ ./Allrun
 $ cd /NusseltNumber
 
 $ wclean
+
+# References
+
+P. Renze, K. Akermann, Simulation of Conjugate Heat Transfer in Thermal Processes with Open Source CFD, ChemEngineering 2019, 3, 59; doi:10.3390/chemengineering3020059
 
 # Underlying Data
 Zenodo:
