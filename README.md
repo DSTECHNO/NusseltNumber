@@ -6,7 +6,7 @@ The Nusselt number is calculated for the two boundaries given as input.
 
 Nu = Convective heat transfer / Conductive heat transfer
 
-![nusselt](https://user-images.githubusercontent.com/90314532/202378565-762e9764-c543-4b6a-9606-4ffa1f418b00.PNG)
+![nusselt](https://user-images.githubusercontent.com/90314532/202379512-8de10e3f-e609-4209-8341-456facd79b8f.PNG)
 
 The results are obtained as a field and the Nusselt Number value is displayed on the calculated boundary.
 
