@@ -18,7 +18,7 @@ Nusselt Number values calculated using our functionObject as a result of CFD sim
 
 https://youtu.be/-jCMPmvqgcw
 
-[![Forced Convection](https://yt-embed.herokuapp.com/embed?v=-jCMPmvqgcw)]([![Forced Convection](https://yt-embed.herokuapp.com/embed?v=-jCMPmvqgcw)](https://youtu.be/-jCMPmvqgcw "Forced Convection") "Forced Convection")
+([![Forced Convection](https://yt-embed.herokuapp.com/embed?v=-jCMPmvqgcw)](https://youtu.be/-jCMPmvqgcw "Forced Convection") "Forced Convection")
 
 **Note:** The reference list includes the publication from which the experimental values were drawn.
 
