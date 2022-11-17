@@ -15,7 +15,7 @@ The results are obtained as a field and the Nusselt Number value is displayed on
 
 # Usage
 
-**Step 1.** Compile the functionObject.
+**Step 1.** Compile the functionObject in OpenFOAM-8.
 
 $wmake
 
