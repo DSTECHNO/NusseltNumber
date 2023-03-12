@@ -95,7 +95,7 @@ scalar Foam::functionObjects::NusseltNumber::temperatureJump(const volScalarFiel
     scalar patch1AvgTemp = gSum(patch1Area * patch1Temp) / gSum(patch1Area);
         
 
-    return mag(patch1AvgTemp - patch0AvgTemp);
+    return mag(patch1AvgTemp - patch0AvgTemp)+1e-9;
 }
 
 
