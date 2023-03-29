@@ -9,11 +9,14 @@ Nu = Convective heat transfer / Conductive heat transfer
 ![nusselt](https://user-images.githubusercontent.com/90314532/202379512-8de10e3f-e609-4209-8341-456facd79b8f.PNG)
 
 The nusselt number field is displayed on the cylinder boundary of the tutorial case.
-![2](https://user-images.githubusercontent.com/92421699/202396386-d207e233-9ce8-485c-b628-138cba68cc2b.png)
+<img src="https://user-images.githubusercontent.com/92421699/202396386-d207e233-9ce8-485c-b628-138cba68cc2b.png" width=50% height=50%>
+
 **Figure 1.** Nusselt Number field display on a cylinder boundary.
 
 Nusselt Number values calculated using our functionObject as a result of CFD simulation and obtained from experimental results were compared in a graphic.
-![Nu2D](https://user-images.githubusercontent.com/92421699/202397085-a7e10df9-4d61-459a-a4af-c7d4390052cf.png)
+
+<img src="https://user-images.githubusercontent.com/92421699/202397085-a7e10df9-4d61-459a-a4af-c7d4390052cf.png" width=50% height=50%>
+
 **Figure 2.** Comparison of Nusselt Number.
 
 
