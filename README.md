@@ -47,8 +47,11 @@ $ wclean
 
 P. Renze, K. Akermann, Simulation of Conjugate Heat Transfer in Thermal Processes with Open Source CFD, ChemEngineering 2019, 3, 59; doi:10.3390/chemengineering3020059
 
+# Paper
+Dogan A, Yilmaz S, Kuzay M, Yilmaz C, Demirel E: **CFD modeling of pressure drop through an OCP server for data center applications.** *Energies* 2022.
+
 # Underlying Data
-Zenodo:
+Zenodo: OpenFOAM cases of the paper **" CFD modeling of pressure drop through an OCP server for data center applications " [Data Set]**, https://www.zenodo.org/record/7635861 
 
 # Developers 
 
