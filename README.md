@@ -55,10 +55,6 @@ Zenodo: OpenFOAM cases of the paper **" CFD modeling of pressure drop through an
 
 # Developers 
 
-Aras Dogan
-
-Sibel Yilmaz
-
 Mustafa Kuzay
 
 Prof. Dr. Ender Demirel
